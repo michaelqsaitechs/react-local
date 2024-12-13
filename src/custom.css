@@ -1,0 +1,44 @@
+.button-link {
+    border-radius: 20px;
+    padding: 8px 15px;
+    margin: 10px 5px;
+    font-weight: 500;
+    border-width: 2px;
+    align-self: flex-end;
+}
+.border-purple {
+    border-color: #5148F9;
+}
+
+.background-purple {
+    background-color: #5148F9;
+}
+
+.background-white {
+    background-color: white;
+}
+
+.text-purple {
+    color: #5148F9;
+}
+
+.text-white {
+    color: white;
+}
+
+.pre-dot {
+    padding-right: 5px;
+}
+
+.welcome-bg {
+    background-color: #5148F91A;
+    border-radius: 15px;
+    padding: 10px 40px;
+    justify-content: space-between;
+}
+
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
